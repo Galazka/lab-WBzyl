@@ -5,11 +5,11 @@
 Petle
 [Zadania](http://wbzyl.inf.ug.edu.pl/c/petle)
 Wykonane zadania:
-- [x]0
-- [x]1
-- [x]2
-- [ ]3
-- [ ]4
+- [x] 0
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
 .
 .
 .
