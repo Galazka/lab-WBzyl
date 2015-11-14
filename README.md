@@ -5,7 +5,7 @@
 Petle
 [Zadania](http://wbzyl.inf.ug.edu.pl/c/petle)
 Wykonane zadania 
-0  - [ ]
+0 [ ]
 1[x]
 2[x]
 3[]
@@ -19,7 +19,7 @@ Wykonane zadania
 
 
 
-Do ogarniecia w domu :
+ ## Do ogarniecia w domu :
 
 [wysylanie do gita](http://java-programowanie.pl/podstawy/narzedzia-programisty/przesylanie-projektu-na-github/)
 
