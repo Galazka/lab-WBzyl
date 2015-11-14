@@ -1,12 +1,12 @@
 # lab-c-14.11
 
-14,11,15r:
+## 14,11,15r:
 
 Petle
 [Zadania](http://wbzyl.inf.ug.edu.pl/c/petle)
 Wykonane zadania 
-0 [x]
-1[ x ]
+0  - [ ]
+1[x]
 2[x]
 3[]
 4[]
